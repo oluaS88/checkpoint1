@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap'); 
+
+#img1{
+    border-radius: 50px;
+
+   
+}
+
+#img2{
+    border-radius: 50px;
+    margin-right: 500px;
+}
+
+
+h1{
+    color: rgb(150, 5, 155);
+    padding: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+      
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
